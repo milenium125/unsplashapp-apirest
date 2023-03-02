@@ -1,0 +1,14 @@
+{
+  "name": "unsplashapp-apirest",
+  "version": "1.0.0",
+  "description": "Api rest para la app unSplashApp. Con fines educativos y para la plataforma devChalleges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Sanmiguel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
